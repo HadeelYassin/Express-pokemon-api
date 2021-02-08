@@ -1,0 +1,6 @@
+https://pokeapi.co/api/v2/ability/1/
+https://pokeapi.co/api/v2/egg-group/2
+https://pokeapi.co/api/v2/gender/2
+https://pokeapi.co/api/v2/growth-rate/4
+https://pokeapi.co/api/v2/nature/1
+
